@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kamil Mróz (Frost ❄)
-- 👀 I’m interested in C, C++, java 
+- 👀 Currently I’m interested in C#, C++, C
 - 🌱 I’m currently studying computer science at https://wcy.wat.edu.pl/pl
 - 📫 e-mail me : kamil7mroz@gmail.com
 
