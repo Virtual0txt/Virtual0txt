@@ -3,7 +3,9 @@
 - 🌱 I’m currently studying computer science at https://wcy.wat.edu.pl/pl
 - 📫 e-mail me : kamil7mroz@gmail.com
 
-<!---
-Virtual0txt/Virtual0txt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Books i read:
+Clean Code, Robert C. Martin
+Clean Coder: A Code of Conduct for Professional Programmers, Robert C. Martin
+C Programming Language, 2nd Edition, Brian W. Kernighan
+Opus Magnum C++ 11 (part I - III), Grębosz Jerzy
+Algorithms, Maciej M. Sysło
