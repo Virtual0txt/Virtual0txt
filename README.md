@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Kamil Mróz (Frost ❄)
-- 👀 Currently I’m interested in C#, C++, C
-- 🌱 I’m currently studying computer science at https://wcy.wat.edu.pl/pl
+- 👋 Hi, I’m Kamil Mróz
 - 📫 e-mail me : kamil7mroz@gmail.com
 
 Books i read:\
